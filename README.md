@@ -1,0 +1,1 @@
+# Deep-learning-inversion-of-electromagnetic-induction-data-by-CNN
